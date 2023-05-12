@@ -1,0 +1,10 @@
+Constructor 
+
+1) It is a special type of function
+2) The name of the constructor same as name of the class.
+3) Constrcutor never return any value
+4) In constructor we can pass any number of arguments
+5) Constructor always declared as public
+6) Constrcut0r with out parameter is called default constructor
+7) Constrcutor can be overloaded.
+
